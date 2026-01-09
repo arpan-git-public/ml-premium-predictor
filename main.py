@@ -1,4 +1,4 @@
-# codebasics ML course: codebasics.io, all rights reserverd
+
 
 import streamlit as st
 from prediction_helper import predict
